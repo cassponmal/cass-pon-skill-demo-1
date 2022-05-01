@@ -7,7 +7,7 @@ public class SkillDemoTest {
 
 
     public void MaxTester() {
-        assertEquals(5, SkillDemo.Max(IntegerList));//Test That Fails Intially
+        assertEquals(7, SkillDemo.Max(IntegerList));//Test That Fails Intially
     }
 
     
